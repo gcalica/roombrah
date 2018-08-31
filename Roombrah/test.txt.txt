@@ -1,0 +1,11 @@
+15 10
+WWWWWWWWWWWWWWW
+W.......W.....W
+W.......W.....W
+W..C....W.....W
+W.......W.....W
+W...C.........W
+W...WWW..C....W
+W.............W
+W..C..........W
+WWWWWWWWWWWWWWW
